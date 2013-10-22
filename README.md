@@ -1,6 +1,6 @@
 # OmniAuth 9Flats
 
-This is an OmniAuth 1.0 strategy for authenticating to 9Flats. To
+This is an OmniAuth 1.1 strategy for authenticating to 9Flats. To
 use it, you'll need to sign up for an OAuth2 Application ID and Secret
 on the [9Flats Application's Registration Page](https://www.9flats.com/us/client_applications).
 
