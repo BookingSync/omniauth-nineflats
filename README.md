@@ -9,7 +9,7 @@ on the [9Flats Application's Registration Page](https://www.9flats.com/us/client
 Add to your `Gemfile`:
 
 ```ruby
-gem 'omniauth-9flats'
+gem 'omniauth-nineflats'
 ```
 
 Then `bundle install`.
