@@ -28,7 +28,7 @@ end
 
 ## Supported Rubies
 
-OmniAuth Roomorama is tested under 1.8.7, 1.9.2, 1.9.3, 2.0.0, Ruby-head, Ruby Enterprise Edition, JRuby (1.8 and 1.9 mode) and Rubinius (1.8 and 1.9 mode).
+OmniAuth 9Flats is tested under 1.8.7, 1.9.2, 1.9.3, 2.0.0, Ruby-head, Ruby Enterprise Edition, JRuby (1.8 and 1.9 mode) and Rubinius (1.8 and 1.9 mode).
 
 [![CI Build
 Status](https://secure.travis-ci.org/BookingSync/omniauth-nineflats.png)](http://travis-ci.org/BookingSync/omniauth-nineflats)
